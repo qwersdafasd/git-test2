@@ -7,5 +7,6 @@ public class git_demon01 {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
